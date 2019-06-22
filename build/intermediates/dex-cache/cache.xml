@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\5b3135c1b8b23a6acac8e77a79e8d274b07a8516\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Lab Tests\iCare\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d76ec4b0c28ba059ad8d1ebe5207652f2b9f0402\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\830d3a7219448dca4e0c470485ab8721b892aca3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Lab Tests\iCare\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_0a901cc46bea71a797d760c665ceb7fd87048749\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\Xiaomi\25th Batch Mobile App\Lab Tests\iCare\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5181d7427c09321c25a3d64b65474e4f3511d69a">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Lab Tests\iCare\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_cf97acab8e9bfffb384d913098acb8aa6cdafb52\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\d9f104e3b84a3a3d2c6c4ee73a04b72aaae70cb1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Lab Tests\iCare\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_226c260a9c895e93e671d6af485b1b217812ed1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Lab Tests\iCare\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.1_fa9d78bc740013f69281291dcc65b8e49d704f26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\379d2d726222fc8375bd7f481a906f55bf62799e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Lab Tests\iCare\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_05994fff58274fa0fa47e5dac34bd69eb7b6f629\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\e515a0a251866fdca98b0d0274e715445e66c7f9\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Lab Tests\iCare\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1de93ec503ec3232a21dc7ab1707067878385975\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\b6f52189f40c3d550ae1045a1682e1a87d6954c3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Lab Tests\iCare\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_d77cd046beb4e997c8ce2a0714dfbefd3f6ebed3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\be4d77199a7b83f6cf36fb43036b3e5388cadac2\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Lab Tests\iCare\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_74afc37cbc6530bd1f9685c6a57d1ec9d9b8d895\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\c1e2a82d1295add822a496931c827919babfd7a5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Lab Tests\iCare\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f2faf427271da4206ec2b8c177059b62d939918b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="I:\Xiaomi\25th Batch Mobile App\Lab Tests\iCare\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Lab Tests\iCare\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_299c71356bf8201bdfbf75cb276405f010f47dfe\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PIASH\.android\build-cache\80e12fd8b82839497583730121eba99e5286f220\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="I:\Xiaomi\25th Batch Mobile App\Lab Tests\iCare\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_3ef0388509cd75df51f214553d8533693852144b\classes.dex" />
+    </item>
+
+</items>

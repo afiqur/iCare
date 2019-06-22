@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/updateDoc"
+        android:title="Update"
+        android:onClick="updateDoc">
+    </item>
+    <item
+        android:id="@+id/deleteDoc"
+        android:title="Delete"
+        android:onClick="deleteDoc">
+    </item>
+    <item
+        android:id="@+id/homeDoc"
+        android:title="Home"
+        android:onClick="homeDoc">
+    </item>
+    <item
+        android:id="@+id/gotoLogin"
+        android:title="Log Out"
+        android:onClick="gotoLogin">
+    </item>
+</menu>
